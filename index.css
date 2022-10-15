@@ -1,0 +1,28 @@
+body{
+    background-color: honeydew ;
+
+}
+
+h1{
+    color: blue;
+}
+
+#Def{
+    color:rgb(252, 230, 38);
+    text-decoration: underline;
+}
+
+#For{
+    color: rgb(252, 230, 38);
+    text-decoration: underline;
+}
+
+#Mid{
+    color: rgb(252, 230, 38);
+    text-decoration: underline;
+}
+
+#GK{
+    color: rgb(252, 230, 38);
+    text-decoration: underline;
+}
